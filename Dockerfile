@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.1.1-cudnn8-runtime-ubuntu20.04
+FROM nvcr.io/nvidia/l4t-pytorch:r32.4.4-pth1.6-py3
 
 ############################################################################
 #################### Dependency: jupyter/base-image ########################
